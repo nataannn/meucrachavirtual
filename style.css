@@ -1,0 +1,20 @@
+html, 
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
